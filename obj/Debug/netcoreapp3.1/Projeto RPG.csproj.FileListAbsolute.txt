@@ -1,0 +1,13 @@
+D:\jrbot\Documents\WWW\Projeto RPG\bin\Debug\netcoreapp3.1\Projeto RPG.exe
+D:\jrbot\Documents\WWW\Projeto RPG\bin\Debug\netcoreapp3.1\Projeto RPG.deps.json
+D:\jrbot\Documents\WWW\Projeto RPG\bin\Debug\netcoreapp3.1\Projeto RPG.runtimeconfig.json
+D:\jrbot\Documents\WWW\Projeto RPG\bin\Debug\netcoreapp3.1\Projeto RPG.runtimeconfig.dev.json
+D:\jrbot\Documents\WWW\Projeto RPG\bin\Debug\netcoreapp3.1\Projeto RPG.dll
+D:\jrbot\Documents\WWW\Projeto RPG\bin\Debug\netcoreapp3.1\Projeto RPG.pdb
+D:\jrbot\Documents\WWW\Projeto RPG\obj\Debug\netcoreapp3.1\Projeto RPG.csprojAssemblyReference.cache
+D:\jrbot\Documents\WWW\Projeto RPG\obj\Debug\netcoreapp3.1\Projeto RPG.AssemblyInfoInputs.cache
+D:\jrbot\Documents\WWW\Projeto RPG\obj\Debug\netcoreapp3.1\Projeto RPG.AssemblyInfo.cs
+D:\jrbot\Documents\WWW\Projeto RPG\obj\Debug\netcoreapp3.1\Projeto RPG.csproj.CoreCompileInputs.cache
+D:\jrbot\Documents\WWW\Projeto RPG\obj\Debug\netcoreapp3.1\Projeto RPG.dll
+D:\jrbot\Documents\WWW\Projeto RPG\obj\Debug\netcoreapp3.1\Projeto RPG.pdb
+D:\jrbot\Documents\WWW\Projeto RPG\obj\Debug\netcoreapp3.1\Projeto RPG.genruntimeconfig.cache
