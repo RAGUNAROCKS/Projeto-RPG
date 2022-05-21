@@ -1,8 +1,8 @@
 namespace Projeto_RPG.src.Entities
 {
-    public class Wizard : Hero
+    public class WhiteWizard : Hero
     {
-        public Wizard(string Name, int Level, string HeroType)
+        public WhiteWizard(string Name, int Level, string HeroType)
         {
             this.Name = Name;
             this.Level = Level;
@@ -16,6 +16,13 @@ namespace Projeto_RPG.src.Entities
             return $"{this.Name} lançou a magia super efetiva com bonus de {bonus} de dano";
             else
             return $"{this.Name} lançou a magia fraca com bonus de {bonus} de dano";
+        }
+
+        public string Heal(int cura){
+            if(cura > 6)
+            return $"{this.Name} lançou cura super efetiva de {cura} de vida";
+            else
+            return $"{this.Name} lançou cura fraca de {cura} de vida";
         }
     }
 }
